@@ -1,4 +1,4 @@
-# 📚 Sistema RAG para Análise de "Os Sertões"
+# 📚 Sistema RAG para Análise do livro "Os Sertões"
 
 > Sistema de Recuperação e Geração Aumentada (RAG) para análise inteligente da obra clássica "Os Sertões" de Euclides da Cunha, implementando três abordagens progressivas de complexidade.
 
