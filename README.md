@@ -464,7 +464,7 @@ rerank = CohereRerank(top_n=3, model='rerank-v3.5')
 **Alexsandro Oliveira**
 
 - GitHub: [@alexsandro-oliveira](https://github.com/alexsandro-oliveira)
-- LinkedIn: [Alex Sandro Oliveira](https://linkedin.com/in/alexsandro-oliveira)
+- LinkedIn: [Alexsandro Oliveira](https://www.linkedin.com/in/alexs-oliveirasantos/)
 
 ## 📝 Licença
 
@@ -474,4 +474,3 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
 
-**Desenvolvido com ❤️ e Python**
