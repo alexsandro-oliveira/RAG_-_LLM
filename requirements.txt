@@ -1,0 +1,12 @@
+langchain
+langchain-text-splitters
+langchain_openai
+langchain-chroma
+chromadb
+langchain-community
+pypdf
+python-dotenv
+langchain-huggingface
+langchain_core
+langchain_classic
+langchain_cohere
