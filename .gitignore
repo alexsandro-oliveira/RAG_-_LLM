@@ -1,0 +1,6 @@
+.venv
+.vscode
+
+db/
+
+.env
